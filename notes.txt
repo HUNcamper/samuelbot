@@ -1,0 +1,2 @@
+- New commands: restart, whatsnew
+- Fixed playing sounds on new channels
